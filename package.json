@@ -22,8 +22,5 @@
   "homepage": "https://github.com/hyurl/comment-meta#readme",
   "dependencies": {
     "lodash": "^4.17.10"
-  },
-  "devDependencies": {
-    "@types/node": "^10.9.2"
   }
 }
