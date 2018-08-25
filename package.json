@@ -1,6 +1,6 @@
 {
   "name": "comment-meta",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An HTML/Markdown comment metadata parsing tool.",
   "main": "index.js",
   "scripts": {
