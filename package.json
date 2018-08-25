@@ -1,0 +1,29 @@
+{
+  "name": "comment-meta",
+  "version": "0.1.0",
+  "description": "An HTML/Markdown comment metadata parsing tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyurl/comment-meta.git"
+  },
+  "keywords": [
+    "comment",
+    "meta"
+  ],
+  "author": "Ayon Lee <i@hyurl.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyurl/comment-meta/issues"
+  },
+  "homepage": "https://github.com/hyurl/comment-meta#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {
+    "@types/node": "^10.9.2"
+  }
+}
